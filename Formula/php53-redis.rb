@@ -4,7 +4,7 @@ class Php53Redis < AbstractPhp53Extension
   init
   homepage 'https://github.com/nicolasff/phpredis'
   url 'https://github.com/nicolasff/phpredis/tarball/2.2.3'
-  sha1 '84480a8c494f14eee7bb295e5a6dbdb9185f487b'
+  sha1 'b59e19aa06209ca5c366e1e0a3ce4479473df8f3'
   head 'https://github.com/nicolasff/phpredis.git'
 
   option 'with-igbinary', "Build with igbinary support"
